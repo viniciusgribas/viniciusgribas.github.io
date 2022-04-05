@@ -19,7 +19,7 @@ email: 'viniciusgribas@gmail.com'
 description: "I'm a Energy Engineer and a Data Science & Analytics MBA student"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://viniciusgribas.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
-#twitter_username: 'jamigibbs'
+twitter_username: 'jamigibbs'
 github_username: 'viniciusgribas'
 medium_username: 'https://viniciusgribas.medium.com/'
 
@@ -121,7 +121,7 @@ email: 'viniciusgribas@gmail.com'
 description: "I'm a Energy Engineer and a Data Science & Analytics MBA student"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://viniciusgribas.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
-#twitter_username: 'jamigibbs'
+twitter_username: 'jamigibbs'
 github_username: 'viniciusgribas'
 medium_username: 'https://viniciusgribas.medium.com/'
 
