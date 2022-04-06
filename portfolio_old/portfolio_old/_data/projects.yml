@@ -1,0 +1,12 @@
+- name: ANP PROJECT - Pivot Table extraction. [EXCEL VBA] [PYTHON]
+  link: https://github.com/viniciusgribas/ANP-PROJECT
+  image: https://repository-images.githubusercontent.com/470692473/e7682a35-2a0f-4508-89d9-bf4ecb30b5cc
+  description: A project that extracts data from excel pivot tables using VBA and PYTHON. The files in this project refer to the Brazilian National Agency for Oil and Gas (ANP)
+- name: Epidemic Monitoring - GIS and Statistics analyst. [QGIS] [R]
+  image: https://gigacandanga.net.br/wp-content/uploads/2020/11/PrEpidemia.png
+  link: https://www.prepidemia.org/ 
+  description: PrEpidemia is an observatory formed by a multidisciplinary team with the objective of monitoring epidemics and their social, economic and environmental impacts on Brazilian society through information technology, promoting the construction of a smart city. 
+- name: Analysis in Electrical Service - Data Analyst. [QGIS] [EXCEL] [PYTHON]
+  link: https://drive.google.com/file/d/1xB9rLGYY0zaV10huwp53W8NFD3aLcHpP/view?usp=sharing
+  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbAOJwSRIR6MOYXfur8twCJThq1cgVhSwYww&usqp=CAU
+  description: Analysis of the Quality of Electricity Distribution Service in the Federal District - Brasília, Brasil
